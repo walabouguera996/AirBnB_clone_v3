@@ -152,18 +152,18 @@ No known bugs at this time.
 
 ###### Version 3
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Felicia Hsieh - [Github](https://github.com/feliciahsieh) / [Twitter](https://twitter.com/feliciahsiehsw)
+- walabouguera [Github]  (https://github.com/walabouguera996/)  [Email] (walabouguera996@gmail.com) 
+                          [twitter]  (https://twitter.com/bouguera_wala)
 
 ###### Version 2
 
-- Andrew Birnberg - [Github](https://github.com/birnbera) / [Twitter](https://twitter.com/birnbera)
-- Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/outspokenasian)
+- walabouguera [Github]  (https://github.com/walabouguera996/)  [Email] (walabouguera996@gmail.com) 
+                          [twitter]  (https://twitter.com/bouguera_wala)
 
 ###### Version 1
+- walabouguera [Github]  (https://github.com/walabouguera996/)  [Email] (walabouguera996@gmail.com) 
+                          [twitter]  (https://twitter.com/bouguera_wala)
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 ## License
 Public Domain. No copywrite protection. 
